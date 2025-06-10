@@ -1,2 +1,1 @@
---pensando em outra solução sem usar a biblioteca networkx
---A ideia é representar o mapa como uma matriz (list[list[str]]) e usar Busca em Largura (BFS) diretamente nela para calcular as distâncias mínimas entre os portos.
+
